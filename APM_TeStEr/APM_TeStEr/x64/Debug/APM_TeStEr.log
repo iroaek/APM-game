@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\Users\Cruman\source\repos\APM_GAME\APM_TeStEr\APM_TeStEr\Game.cpp(25,17): warning C4244: inicializování: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\Cruman\source\repos\APM_GAME\APM_TeStEr\APM_TeStEr\Game.cpp(26,17): warning C4244: inicializování: int se převádí na float; může dojít ke ztrátě dat.
+  main.cpp
+C:\Users\Cruman\source\repos\APM_GAME\APM_TeStEr\APM_TeStEr\main.cpp(35,81): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\Cruman\source\repos\APM_GAME\APM_TeStEr\APM_TeStEr\main.cpp(35,60): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\Cruman\source\repos\APM_GAME\APM_TeStEr\APM_TeStEr\main.cpp(42,77): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\Cruman\source\repos\APM_GAME\APM_TeStEr\APM_TeStEr\main.cpp(42,56): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+  Generování kódu...
+  APM_TeStEr.vcxproj -> C:\Users\Cruman\source\repos\APM_GAME\APM_TeStEr\x64\Debug\APM_TeStEr.exe
