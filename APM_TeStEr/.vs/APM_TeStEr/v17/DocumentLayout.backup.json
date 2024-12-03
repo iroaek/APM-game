@@ -38,12 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a5174402-226b-48da-aa5c-91376ed45871}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -54,8 +50,7 @@
               "RelativeToolTip": "APM_TeStEr\\Button.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-03T14:56:37.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T14:56:37.663Z"
             },
             {
               "$type": "Document",
@@ -67,8 +62,7 @@
               "RelativeToolTip": "APM_TeStEr\\Button.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-03T14:56:16.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T14:56:16.929Z"
             },
             {
               "$type": "Document",
@@ -78,7 +72,7 @@
               "RelativeDocumentMoniker": "APM_TeStEr\\Game.cpp",
               "ToolTip": "C:\\Users\\Cruman\\source\\repos\\APM_GAME\\APM_TeStEr\\APM_TeStEr\\Game.cpp",
               "RelativeToolTip": "APM_TeStEr\\Game.cpp",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHUAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-03T14:40:30.981Z",
               "EditorCaption": ""
@@ -93,8 +87,7 @@
               "RelativeToolTip": "APM_TeStEr\\Game.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-03T14:40:06.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T14:40:06.618Z"
             },
             {
               "$type": "Document",
@@ -106,8 +99,7 @@
               "RelativeToolTip": "APM_TeStEr\\Square.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-03T14:39:40.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T14:39:40.858Z"
             },
             {
               "$type": "Document",
@@ -119,8 +111,7 @@
               "RelativeToolTip": "APM_TeStEr\\Square.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-03T14:39:01.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T14:39:01.937Z"
             },
             {
               "$type": "Document",
@@ -130,24 +121,10 @@
               "RelativeDocumentMoniker": "APM_TeStEr\\main.cpp",
               "ToolTip": "C:\\Users\\Cruman\\source\\repos\\APM_GAME\\APM_TeStEr\\APM_TeStEr\\main.cpp",
               "RelativeToolTip": "APM_TeStEr\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-03T14:22:06.31Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

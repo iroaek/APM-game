@@ -7,10 +7,26 @@
 #include "Game.h"
 #include "Button.h"
 
-int main() {
+int main(int argc, char* argv) {
     // Nastavení okna
     sf::RenderWindow window(sf::VideoMode(800, 600), "APM Game", sf::Style::Close);
     window.setFramerateLimit(60);
+    std::string difficulty = "medium";
+    if (argc > 0) {
+        if (argv[0]== 'easy'){
+
+            difficulty = "easy";
+        }
+        else if (argv[0] == 'med') {
+
+            difficulty = "medium";
+        }
+        else if (argv[0] == 'hard') {
+
+            difficulty = "hard";
+        }
+
+    }
 
     // Inicializace tlaèítka Start
     Button startButton = Button(300, 250, 100, 50, "Start");
@@ -19,7 +35,7 @@ int main() {
     restartButton.enabled = false;
     endButton.enabled = false;
     // Inicializace hry
-    Game game(10, 800, 600, "medium"); // 10 ètvercù, støední obtínost
+    Game game(10, 800, 600, difficulty); // 10 ètvercù, støední obtínost
 
     bool Running = true;
     bool GameStarted = false;
@@ -63,7 +79,7 @@ int main() {
         float deltaTime = frameClock.restart().asSeconds();
         if (GameStarted) {
             float elapsed = gameClock.getElapsedTime().asSeconds();
-            if (elapsed >= 10.0f) { // Po 60 sekundách se hra ukonèí
+            if (elapsed >= 35.0f) { // Po 60 sekundách se hra ukonèí
                 GameStarted = false;
                 GameOver = true;
                 restartButton.enabled = true;
