@@ -46,12 +46,6 @@ APM & EPM Game is a simple **Actions Per Minute (APM)** and **Effective Actions 
 - Install **C++ compiler** (e.g., GCC or Visual Studio).
 - Install **SFML library** ([Download SFML](https://www.sfml-dev.org/download.php)).
 
-### **Clone the Repository:**
-```bash
-git clone https://github.com/your-username/apm-epm-game.git
-cd apm-epm-game
-```
-
 ### **Build the game:**
 
 - Use CMake or your preferred IDE (e.g., Visual Studio) to build the project.
