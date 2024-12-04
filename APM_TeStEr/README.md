@@ -85,4 +85,4 @@ plaintext
 - Introduce multiple difficulty levels with varying square visibility durations.
 - Save high scores for players to track their performance.
 ## **License**
-This project is licensed under the MIT License. You are free to modify and distribute this software as per the license terms.
+This project is freware. You are free to modify and distribute this software as you want.
