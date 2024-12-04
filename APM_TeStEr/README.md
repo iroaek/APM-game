@@ -1,4 +1,5 @@
 APM & EPM Game
+
 APM & EPM Game is a simple Actions Per Minute (APM) and Effective Actions Per Minute (EPM) tracking game developed in C++ using the SFML library. The game challenges the player to click on randomly appearing squares as quickly and accurately as possible within 60 seconds.
 
 Features
@@ -50,7 +51,7 @@ Run the Game:
 Execute the compiled binary to start the game.
 Code Structure
 plaintext
-Zkopírovat kód
+
 ├── src
 │   ├── main.cpp          # Entry point of the game
 │   ├── Game.cpp          # Core game logic
